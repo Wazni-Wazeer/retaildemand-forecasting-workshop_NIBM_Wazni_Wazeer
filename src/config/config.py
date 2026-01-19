@@ -8,7 +8,7 @@ INFERENCE_INPUT_PATH = "data/inference/future_data.csv"
 INFERENCE_OUTPUT_PATH = "outputs/predictions.csv"
 
 
-#FEATURE_COLS = ["lag_1", "lag_3", "day_of_week"]
+FEATURE_COLS = ["lag_1", "lag_3", "day_of_week"]
 TARGET_COL = "sales_qty"
 
 
